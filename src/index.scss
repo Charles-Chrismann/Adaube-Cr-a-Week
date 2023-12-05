@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+h2 {
+  color: blue;
+  span {
+    color: red;
+  }
+}
